@@ -1,6 +1,6 @@
 .vercel
 
-# Env Files #
+# Environment Files #
 .env
 .env*.local
 
@@ -26,6 +26,7 @@ yarn-error.log*
 # Next.js Builds #
 /.next/
 /out/
+/target/
 
 # Testing Folder #
 /coverage/
